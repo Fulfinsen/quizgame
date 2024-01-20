@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 5
   m_EditorClassIdentifier: 
   question: 'Question: In which year did World War II end?'
+  answers:
+  - 1943
+  - 1945
+  - 1950
+  - 1939
+  correctAnswerIndex: 1

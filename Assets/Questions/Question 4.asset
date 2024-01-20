@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 4
   m_EditorClassIdentifier: 
   question: 'Question: What is the largest mammal in the world?'
+  answers:
+  - Elephant
+  - Giraffe
+  - Blue Whale
+  - Gorilla
+  correctAnswerIndex: 2

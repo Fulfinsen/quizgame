@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 2
   m_EditorClassIdentifier: 
   question: 'Question: Which planet is known as the "Red Planet"?'
+  answers:
+  - Venus
+  - Mars
+  - Jupiter
+  - Saturn
+  correctAnswerIndex: 1

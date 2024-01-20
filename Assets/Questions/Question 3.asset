@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 3
   m_EditorClassIdentifier: 
   question: 'Question: Who is the author of "To Kill a Mockingbird"?'
+  answers:
+  - J.K. Rowling
+  - Herper Lee
+  - George Orwell
+  - Ernest Hemingway
+  correctAnswerIndex: 1
